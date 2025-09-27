@@ -1,5 +1,2 @@
-# Firebase Studio
+# [Repositório no GitHub](https://github.com/vinniscodes/PortFolioo)
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.

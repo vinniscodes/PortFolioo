@@ -11,7 +11,7 @@ export function Header() {
             <Code2 className="h-6 w-6 text-primary" />
             <span className="font-bold">Vinicius Anderson</span>
           </Link>
-          <a href="https://github.com/vinniscodes/portfoliooo" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+          <a href="https://github.com/vinniscodes/PortFolioo" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
             <Github className="h-6 w-6 text-muted-foreground transition-colors hover:text-primary" />
           </a>
         </div>
